@@ -1,4 +1,4 @@
-package con.shuidihuzhu.eureka01.springcloudeurekaserver01;
+package com.shuidihuzhu.eureka01.springcloudeurekaserver01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

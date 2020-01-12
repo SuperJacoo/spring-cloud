@@ -17,7 +17,7 @@
         </developer>
     </developers>
 
-    <groupId>con.shuidihuzhu.eureka01</groupId>
+    <groupId>com.shuidihuzhu.eureka01</groupId>
     <artifactId>spring-cloud-eureka-server-01</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
