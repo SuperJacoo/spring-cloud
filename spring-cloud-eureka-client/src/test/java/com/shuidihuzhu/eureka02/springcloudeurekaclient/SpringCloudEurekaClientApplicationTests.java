@@ -1,4 +1,4 @@
-package com.shuidihuzhu.springcloudeurekaclient;
+package com.shuidihuzhu.eureka02.springcloudeurekaclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
